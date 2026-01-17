@@ -1,3 +1,3 @@
-# git-hub-practice-
+# git-practice-
 
-for day=3
+for day=1
