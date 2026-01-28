@@ -1,6 +1,6 @@
 # git-practice-
 
-for day=7
+for day=1
 
 
 ##sub header
